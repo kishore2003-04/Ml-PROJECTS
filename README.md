@@ -6,3 +6,8 @@ This project focuses on predicting whether a person is diabetic or not based on 
 
 Rainfall prediction using Machine learning:
 This project predicts rainfall based on meteorological features such as temperature, humidity, pressure, wind speed, and more. Machine learning algorithms are used to analyze historical weather data and make predictions.
+
+Petition Flow
+This project focuses on categorizing the petitions entered by the user into corresponding department as
+well as flagging important petitions and setting corresponding priority to it using Machine learning
+techniques.
